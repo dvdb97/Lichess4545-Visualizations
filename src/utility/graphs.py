@@ -11,7 +11,7 @@ from bokeh.plotting import from_networkx
 from bokeh.transform import linear_cmap
 from bokeh.palettes import Blues8, Purples8
 
-from lib.load_data import sorted_tuple
+from utility.load_data import sorted_tuple
 
 
 """
