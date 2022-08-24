@@ -1,1 +1,1 @@
-Just some visualizations of data extracted from [lichess4545.com](https://www.lichess4545.com/). Click [here](https://htmlpreview.github.io/?https://github.com/dvdb97/Lichess4545-Visualizations/blob/main/Visualizations.html) to see the html page.
+Just some visualizations of data extracted from [lichess4545.com](https://www.lichess4545.com/team4545/). Click [here](https://htmlpreview.github.io/?https://github.com/dvdb97/Lichess4545-Visualizations/blob/main/Visualizations.html) to see the html page.
